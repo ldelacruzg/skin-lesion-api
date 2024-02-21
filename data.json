@@ -1,0 +1,2010 @@
+{
+  "lesions": [
+    {
+      "id": 1,
+      "name": "Rosácea",
+      "description": "La rosácea es una enfermedad crónica que afecta la piel y algunas veces los ojos. Causa enrojecimiento de la piel y espinillas. La rosácea es más común entre las mujeres y las personas de piel clara. Suele afectar a adultos de edad mediana y avanzada.",
+      "symptoms": [
+        {
+          "title": "Enrojecimiento facial persistente",
+          "description": "El enrojecimiento facial es el signo más común de la rosácea. Puede ser leve o severo, y puede afectar toda la cara o solo ciertas áreas."
+        },
+        {
+          "title": "Telangiectasias",
+          "description": "Las telangiectasias son vasos sanguíneos dilatados que se pueden ver a través de la piel. Son comunes en las personas con rosácea, y suelen aparecer en la nariz, las mejillas y la frente."
+        },
+        {
+          "title": "Pápulas y pústulas",
+          "description": "Las pápulas son pequeñas protuberancias elevadas en la piel, y las pústulas son protuberancias elevadas que contienen pus. Pueden aparecer en la cara, y suelen ser más comunes en personas con rosácea de tipo inflamatorio."
+        },
+        {
+          "title": "Ojos secos y/o irritados",
+          "description": "Las personas con rosácea pueden experimentar ojos secos, irritados o enrojecidos. También pueden tener lagrimeo excesivo o visión borrosa."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la rosácea se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otros signos de rosácea, como telangiectasias u ojos secos.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Los medicamentos tópicos, como el ácido azelaico, el metronidazol y la brimonidina, pueden ayudar a reducir el enrojecimiento, las pápulas y las pústulas."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "Los medicamentos orales, como la doxiciclina y la minociclina, pueden ayudar a controlar la inflamación."
+        },
+        {
+          "title": "Cirugía",
+          "description": "En casos graves, la cirugía puede ser necesaria para corregir el engrosamiento de la piel (rinofima)"
+        }
+      ],
+      "care": [
+        "Evitar los factores desencadenantes: Los factores desencadenantes de la rosácea pueden variar de persona a persona, pero algunos de los más comunes son el sol, el calor, el estrés, el alcohol y los alimentos picantes.",
+        "Usar protector solar: El protector solar es esencial para proteger la piel del sol, que es uno de los principales desencadenantes de la rosácea.",
+        "Usar productos para el cuidado de la piel suaves: Los productos para el cuidado de la piel demasiado fuertes o irritantes pueden empeorar los síntomas de la rosácea.",
+        "Evitar tocarse la cara: Tocarse la cara puede propagar las bacterias y empeorar los síntomas de la rosácea."
+      ],
+      "faq": [
+        {
+          "ask": "¿La rosácea es contagiosa?",
+          "answer": "No, la rosácea no es contagiosa"
+        },
+        {
+          "ask": "¿La rosácea es curable?",
+          "answer": "No, la rosácea es una afección crónica que no tiene cura. Sin embargo, el tratamiento puede ayudar a controlar los signos y síntomas de la afección"
+        },
+        {
+          "ask": "¿Hay algún remedio casero para la rosácea?",
+          "answer": "Hay algunos remedios caseros que pueden ayudar a aliviar los síntomas de la rosácea, como compresas frías, té de manzanilla y remedios naturales para el acné. Sin embargo, estos remedios no son un sustituto del tratamiento médico."
+        }
+      ]
+    },
+    { 
+      "id": 2,
+      "name": "Impétigo",
+      "description": "Impétigo es una infección bacteriana común de la piel que afecta principalmente a los niños. Es una infección de la piel superficial que provoca la aparición de úlceras costrosas, amarillentas y a veces pequeñas ampollas llenas de líquido amarillo.",
+      "symptoms": [
+        {
+          "title": "Ampollas",
+          "description": "Las ampollas son pequeñas protuberancias elevadas en la piel que están llenas de líquido. Pueden aparecer en cualquier parte del cuerpo, pero son más comunes en la cara, las manos y las piernas."
+        },
+        {
+          "title": "Llagas",
+          "description": "Las llagas son áreas abiertas en la piel que están cubiertas de una costra. Pueden ser dolorosas y picar."
+        },
+        {
+          "title": "Piel roja e irritada",
+          "description": "La piel alrededor de las ampollas o llagas puede estar roja e irritada."
+        }
+      ],
+      "diagnosis": "El diagnóstico del impétigo se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características del impétigo.",
+      "treatments": [
+        {
+          "title": "Antibióticos tópicos",
+          "description": "Los antibióticos tópicos, como la mupirocina y la bacitracina."
+        },
+        {
+          "title": "Antibióticos orales",
+          "description": "Los antibióticos orales, como la amoxicilina."
+        }
+      ],
+      "care": [
+        "Lave las manos con frecuencia con agua y jabón.",
+        "Cubra las lesiones con vendajes o gasas para evitar que se toquen.",
+        "Usar productos para el cuidado de la piel suaves: Los productos para el cuidado de la piel demasiado fuertes o irritantes pueden empeorar los síntomas de la rosácea.",
+        "No comparta toallas, ropa o artículos de aseo personal con otras personas."
+      ],
+      "faq": [
+        {
+          "ask": "¿El impétigo es contagioso?",
+          "answer": "Sí, el impétigo es contagioso. Se puede propagar a través del contacto directo con las lesiones o a través de las gotitas respiratorias que se producen al toser o estornudar."
+        },
+        {
+          "ask": "¿El impétigo es curable?",
+          "answer": "Sí, el impétigo es curable con tratamiento. La mayoría de las personas se recuperan por completo en unas pocas semanas."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para el impétigo?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar el impétigo. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como mantener las lesiones limpias y cubiertas."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Molusco contagioso",
+      "description": "Los moluscos contagiosos son una infección viral de la piel que se caracteriza por la aparición de pequeñas protuberancias elevadas, de color carne o rosado, con un pequeño orificio en la parte superior, que contiene una sustancia blanca caseosa.",
+      "symptoms": [
+        {
+          "title": "Pápulas",
+          "description": "Las pápulas son pequeñas protuberancias elevadas en la piel. Suelen ser de color carne o rosado, y tienen un pequeño orificio en la parte superior."
+        },
+        {
+          "title": "Prurito",
+          "description": "El prurito, o picazón, es un síntoma común de los moluscos contagiosos."
+        }
+      ],
+      "diagnosis": "El diagnóstico de los moluscos contagiosos se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características de los moluscos contagiosos.",
+      "treatments": [
+        {
+          "title": "Crioterapia",
+          "description": "La crioterapia es un tratamiento que utiliza frío para congelar las lesiones."
+        },
+        {
+          "title": "Electrocauterización",
+          "description": "La electrocauterización es un tratamiento que utiliza calor para quemar las lesiones."
+        },
+        {
+          "title": "Cirugía",
+          "description": "La cirugía es un tratamiento que implica la extirpación quirúrgica de las lesiones."
+        },
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Los medicamentos tópicos, como el imiquimod, pueden ayudar a reducir el tamaño y la cantidad de lesiones."
+        }
+      ],
+      "care": [
+        "Lave las manos con frecuencia con agua y jabón.",
+        "No se toque las lesiones.",
+        "Evite compartir toallas, ropa o artículos de aseo personal con otras personas."
+      ],
+      "faq": [
+        {
+          "ask": "¿Los moluscos contagiosos son contagiosos?",
+          "answer": "Sí, los moluscos contagiosos son contagiosos. Se pueden propagar a través del contacto directo con las lesiones o a través de las superficies contaminadas."
+        },
+        {
+          "ask": "¿Los moluscos contagiosos son curables?",
+          "answer": "Sí, los moluscos contagiosos son curables. La mayoría de las personas se recuperan por completo en unas pocas semanas."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para los moluscos contagiosos?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar los moluscos contagiosos. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como mantener las lesiones limpias y cubiertas."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Queloides",
+      "description": "Los queloides son una cicatrización excesiva de la piel que se produce después de una lesión. Son crecimientos de tejido cicatricial elevados, duros y firmes que pueden ser de color rojo, rosado o marrón. Los queloides suelen aparecer en el pecho, los hombros, la espalda y las orejas.",
+      "symptoms": [
+        {
+          "title": "Cicatrices hipertróficas",
+          "description": "Cicatrices de color rojo, rosado o marrón que se elevan sobre la piel pero no se extienden más allá del área original de la herida."
+        },
+        {
+          "title": "Cicatrices atróficas",
+          "description": "Cicatrices que pueden crecer y extenderse, a menudo asociadas con una pérdida de tejido subyacente, como en el caso de la acne, variolos o quemaduras profundas."
+        },
+        {
+          "title": "Cicatrices queloides",
+          "description": "Cicatrices que pueden ser dolorosas o picar debido a su naturaleza elevada y la presión sobre los nervios de la piel."
+        }
+      ],
+      "diagnosis": "El diagnóstico de los queloides se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características de los queloides.",
+      "treatments": [
+        {
+          "title": "Inyección de corticosteroides",
+          "description": "Las inyecciones de corticosteroides se pueden utilizar para reducir la inflamación y el tamaño de los queloides."
+        },
+        {
+          "title": "Crioterapia",
+          "description": "La crioterapia es un tratamiento que utiliza frío para congelar los queloides."
+        },
+        {
+          "title": "Electrocauterización",
+          "description": "La electrocauterización es un tratamiento que utiliza calor para quemar los queloides."
+        },
+        {
+          "title": "Cirugía",
+          "description": "La cirugía es un tratamiento que implica la extirpación quirúrgica de los queloides."
+        }
+      ],
+      "care": [
+        "Evite las lesiones en la piel.",
+        "Use protector solar para proteger la piel de la exposición al sol.",
+        "Hable con su médico sobre los medicamentos que pueden aumentar el riesgo de queloides."
+      ],
+      "faq": [
+        {
+          "ask": "¿Los queloides son contagiosos? ",
+          "answer": "No, los queloides no son contagiosos."
+        },
+        {
+          "ask": "¿Los queloides son curables?",
+          "answer": "No, los queloides no son curables, pero existen tratamientos que pueden ayudar a reducir su tamaño y apariencia."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para los queloides?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar los queloides. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como mantener las lesiones limpias y cubiertas."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Forúnculos y carbuncos",
+      "description": "Un forúnculo es una infección bacteriana de la piel que se produce cuando las bacterias estafilocócicas infectan un folículo piloso. Los forúnculos suelen aparecer en la cara, el cuello, las axilas, los glúteos y los muslos.",
+      "symptoms": [
+        {
+          "title": "Forúnculo",
+          "description": "Un bulto rojo, doloroso y sensible en la piel causado por una infección bacteriana en un folículo piloso o glándula sebácea."
+        },
+        {
+          "title": "Espinilla",
+          "description": "Una protuberancia central blanca o amarilla que contiene pus, resultado de una acumulación de sebo, células muertas de la piel y bacterias en un poro obstruido."
+        },
+        {
+          "title": "Celulitis",
+          "description": "Enrojecimiento e hinchazón de la piel circundante, generalmente causado por una infección bacteriana que se propaga a través de los tejidos subcutáneos."
+        }
+      ],
+      "diagnosis": "El diagnóstico de un forúnculo se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características de un forúnculo.",
+      "treatments": [
+        {
+          "title": "Aplicación de calor local",
+          "description": "El calor local puede ayudar a ablandar el pus y facilitar su drenaje."
+        },
+        {
+          "title": "Incisión y drenaje",
+          "description": "La incisión y el drenaje son un procedimiento que implica la apertura del forúnculo con un bisturí para drenar el pus."
+        },
+        {
+          "title": "Antibióticos tópicos",
+          "description": "Los antibióticos tópicos pueden ayudar a combatir la infección."
+        },
+        {
+          "title": "Antibióticos orales",
+          "description": "Los antibióticos orales pueden ser necesarios en casos graves."
+        }
+      ],
+      "care": [
+        "Lave las manos con frecuencia con agua y jabón.",
+        "No se toque el forúnculo.",
+        "Cubra el forúnculo con una gasa o vendaje para evitar que se extienda la infección."
+      ],
+      "faq": [
+        {
+          "ask": "¿Los forúnculos son contagiosos?",
+          "answer": "Sí, los forúnculos son contagiosos. Se pueden propagar a través del contacto directo con el pus o con las superficies contaminadas."
+        },
+        {
+          "ask": "¿ELos forúnculos son curables?",
+          "answer": "Sí, los forúnculos son curables. La mayoría de los forúnculos se curan por completo en unas pocas semanas."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para los forúnculos?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar los forúnculos. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como aplicar calor local o tomar un antiinflamatorio."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Melasma",
+      "description": "El melasma es una afección de la piel que se caracteriza por la aparición de manchas oscuras en la cara. Estas manchas suelen aparecer en la frente, las mejillas, la nariz y el labio superior.",
+      "symptoms": [
+        {
+          "title": "Manchas oscuras en la cara",
+          "description": "Generalmente causadas por una sobreproducción de melanina debido a la exposición al sol o cambios hormonales."
+        },
+        {
+          "title": "Lentigos solares",
+          "description": "Manchas que pueden ser de color marrón, gris o negro, causadas por la exposición crónica al sol y el daño acumulativo del ADN en las células de la piel."
+        },
+        {
+          "title": "Nevus",
+          "description": "Manchas que pueden ser planas o elevadas, constituidas por un crecimiento anormal de células pigmentarias en la piel, también conocidos como lunares."
+        },
+        {
+          "title": "Manchas de la piel irregular",
+          "description": "Manchas que pueden ser uniformes o irregulares en forma, tamaño y distribución, a menudo asociadas con condiciones como el melanoma o la queratosis seborreica."
+        }
+      ],
+      "diagnosis": "El diagnóstico del melasma se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características del melasma.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Los medicamentos tópicos, como el ácido azelaico, la hidroquinona y el retinol, pueden ayudar a reducir la producción de melanina, el pigmento que da color a la piel."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "Los medicamentos orales, como la hidroxiurea y el metimazol, pueden ayudar a reducir la producción de melanina."
+        },
+        {
+          "title": "Fototerapia",
+          "description": "La fototerapia es un tratamiento que utiliza la luz para reducir la producción de melanina."
+        }
+      ],
+      "care": [
+        "Evite la exposición al sol.",
+        "Use protector solar con un factor de protección solar (SPF) de al menos 30.",
+        "Use sombreros y gafas de sol para proteger la piel de la exposición al sol.",
+        "Evite los productos para el cuidado de la piel que contengan ingredientes que puedan irritar la piel, como los exfoliantes químicos y los productos con alcohol."
+      ],
+      "faq": [
+        {
+          "ask": "¿El melasma es contagioso?",
+          "answer": "No, el melasma no es contagioso."
+        },
+        {
+          "ask": "¿El melasma es curable?",
+          "answer": "No, el melasma no es curable, pero los tratamientos pueden ayudar a reducir la apariencia de las manchas."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para el melasma?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar el melasma. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como usar protector solar y evitar la exposición al sol."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Vitíligio",
+      "description": "El vitíligo es una afección de la piel que se caracteriza por la pérdida de la pigmentación de la piel. Esto se debe a la destrucción de los melanocitos, las células que producen melanina, el pigmento que da color a la piel.",
+      "symptoms": [
+        {
+          "title": "Manchas blancas en la piel",
+          "description": "Esto debido a la pérdida de pigmentación, resultado de la destrucción de las células que producen melanina."
+        },
+        {
+          "title": "Pitiriasis versicolor",
+          "description": "Manchas que pueden aparecer en cualquier parte del cuerpo, pero son más comunes en la cara, las manos, los pies y los genitales, causadas por una infección fúngica superficial."
+        },
+        {
+          "title": "Manchas cutáneas",
+          "description": "La Manchas que pueden ser de cualquier tamaño o forma en la piel, y pueden estar relacionadas con una variedad de condiciones médicas, desde infecciones hasta trastornos autoinmunes."
+        }
+      ],
+      "diagnosis": "El diagnóstico del vitíligo se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características del vitíligo.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Los medicamentos tópicos, como los corticosteroides, la calcipotriol y el tacrolimus, pueden ayudar a estimular la producción de melanina."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "Los medicamentos orales, como la acitretina y la ciclosporina, pueden ayudar a estimular la producción de melanina."
+        },
+        {
+          "title": "Fototerapia",
+          "description": "La fototerapia es un tratamiento que utiliza la luz para estimular la producción de melanina."
+        }
+      ],
+      "care": [
+        "Evite la exposición al sol",
+        "Use protector solar con un factor de protección solar (SPF) de al menos 30.",
+        "Use sombreros y gafas de sol para proteger la piel de la exposición al sol.",
+        "Evite los productos para el cuidado de la piel que contengan ingredientes que puedan irritar la piel, como los exfoliantes químicos y los productos con alcohol."
+      ],
+      "faq": [
+        {
+          "ask": "¿El vitíligo es contagioso?",
+          "answer": "No, el vitíligo no es contagioso."
+        },
+        {
+          "ask": "¿El vitíligo es curable?",
+          "answer": "No, el vitíligo no es curable, pero los tratamientos pueden ayudar a reducir la apariencia de las manchas."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para el vitíligo?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar el vitíligo. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como usar protector solar y evitar la exposición al sol."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Enfermedad de Lyme",
+      "description": "La enfermedad de Lyme es una infección bacteriana transmitida por garrapatas que puede causar una variedad de síntomas, que incluyen un sarpullido característico, fiebre, dolor de cabeza y fatiga.",
+      "symptoms": [
+        {
+          "title": "Sarpullido",
+          "description": "El sarpullido de Lyme, también conocido como eritema migratorio, es un sarpullido rojo, circular o ovalado que suele aparecer en el lugar de la picadura de la garrapata. El sarpullido suele crecer gradualmente, alcanzando un diámetro de hasta 12 pulgadas (30 cm)."
+        },
+        {
+          "title": "Fiebre",
+          "description": "La fiebre es un síntoma común de la enfermedad de Lyme."
+        },
+        {
+          "title": "Dolor de cabeza",
+          "description": "El dolor de cabeza es otro síntoma común de la enfermedad de Lyme."
+        },
+        {
+          "title": "Fatiga",
+          "description": "La fatiga es un síntoma común de la enfermedad de Lyme."
+        },
+        {
+          "title": "Artritis",
+          "description": "La artritis es una de las complicaciones más comunes de la enfermedad de Lyme. La artritis de Lyme puede causar dolor, hinchazón y rigidez en las articulaciones."
+        },
+        {
+          "title": "Neuropatía",
+          "description": "La neuropatía es una enfermedad de los nervios que puede causar hormigueo, entumecimiento, debilidad y otros problemas."
+        },
+        {
+          "title": "Carditis",
+          "description": "La carditis es una inflamación del corazón que puede causar problemas cardíacos."
+        },
+        {
+          "title": "Otras complicaciones",
+          "description": "En casos raros, la enfermedad de Lyme puede causar complicaciones en otros órganos, como los ojos, el cerebro y los riñones."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la enfermedad de Lyme se basa en la evaluación de los signos y síntomas de la persona, así como en los resultados de las pruebas. Las pruebas que se utilizan para diagnosticar la enfermedad de Lyme incluye: Prueba de Elisa y Prueba de Western blot.",
+      "treatments": [
+        {
+          "title": "Antibióticos orales",
+          "description": "La enfermedad de Lyme en la etapa inicial suele responder bien al tratamiento con antibióticos orales, como la amoxicilina o la doxiciclina."
+        }
+      ],
+      "care": [
+        "Si cree que tiene una garrapata, retírela lo antes posible. Para retirar una garrapata, use un par de pinzas para sujetarla lo más cerca posible de la piel y tire de ella con firmeza y con un movimiento continuo.",
+        "No aplaste la garrapata.",
+        "Si tiene un sarpullido que aparece después de una picadura de garrapata, pida atención médica lo antes posible."
+      ],
+      "faq": [
+        {
+          "ask": "¿La enfermedad de Lyme es contagiosa?",
+          "answer": "Sí, la enfermedad de Lyme es contagiosa. Se puede propagar a través del contacto con la saliva o la sangre de una garrapata infectada."
+        },
+        {
+          "ask": "¿La enfermedad de Lyme es curable?",
+          "answer": "Sí, la enfermedad de Lyme es curable si se trata a tiempo. Sin embargo, si la enfermedad no se trata, puede causar complicaciones graves."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para la enfermedad de Lyme?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar la enfermedad de Lyme. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como tomar analgésicos de venta libre y usar ungüentos para la piel para aliviar el dolor y la picazón."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Sarna",
+      "description": "La sarna es una infección parasitaria de la piel causada por el ácaro Sarcoptes scabiei. El ácaro excava túneles en la piel y deposita huevos, lo que provoca una reacción alérgica que causa picazón intensa.",
+      "symptoms": [
+        {
+          "title": "Picazón intensa ",
+          "description": "Especialmente por la noche, causada por una infestación de ácaros que excavan túneles en la piel y depositan sus huevos."
+        },
+        {
+          "title": "Erupción cutánea con bultos rojos o pápulas",
+          "description": "Se presenta comúnmente en áreas flexoras como los pliegues de los codos y las rodillas, así como en el cuello, la cara y las manos."
+        },
+        {
+          "title": "Líneas finas o surcos en la piel",
+          "description": "Estos se encuentran en los túneles del ácaro."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la sarna se basa en la evaluación de los signos y síntomas de la persona, así como en el examen físico. El médico puede realizar un examen con una lupa para buscar los túneles del ácaro.",
+      "treatments": [
+        {
+          "title": "Antibióticos tópicos",
+          "description": "El tratamiento de la sarna implica la aplicación de un medicamento tópico, como la permetrina, en todo el cuerpo. La permetrina mata al ácaro y sus huevos."
+        }
+      ],
+      "care": [
+        "lave toda la ropa y la ropa de cama que haya usado la persona infectada con agua caliente y jabón.",
+        "Caliente la ropa y la ropa de cama en la secadora a alta temperatura durante 10 minutos.",
+        "Aísle a la persona infectada de otras personas hasta que haya terminado el tratamiento."
+      ],
+      "faq": [
+        {
+          "ask": "¿La sarna es contagiosa?",
+          "answer": "Sí, la sarna es contagiosa. Se puede propagar a través del contacto directo con la piel de una persona infectada."
+        },
+        {
+          "ask": "¿La sarna es curable?",
+          "answer": "Sí, la sarna es curable con el tratamiento adecuado."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para la sarna?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar la sarna. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas, como tomar un antihistamínico de venta libre para reducir la picazón."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Herpes",
+      "description": "El herpes es una enfermedad viral causada por los virus del herpes simple (VHS). Hay dos tipos principales de virus del herpes simple: el VHS tipo 1 (VHS-1) y el VHS tipo 2 (VHS-2). Ambos tipos pueden causar infecciones en los genitales, así como en otras partes del cuerpo.",
+      "symptoms": [
+        {
+          "title": "Herpes oral (VHS-1)",
+          "description": "Lesiones en forma de ampollas o úlceras en los labios, boca o alrededor. Picazón o dolor antes de la aparición de las lesiones. Puede haber síntomas similares a la gripe, como fiebre y malestar general."
+        },
+        {
+          "title": "Herpes genital (VHS-2)",
+          "description": "Lesiones en forma de ampollas o úlceras en los genitales, el ano o la región perianal. Picazón o dolor antes de la aparición de las lesiones. Puede haber síntomas similares a la gripe, como fiebre y malestar general."
+        }
+      ],
+      "diagnosis": "El diagnóstico del herpes se realiza generalmente mediante la observación de los síntomas y la realización de pruebas específicas, como cultivos de las lesiones, pruebas de reacción en cadena de la polimerasa (PCR) o pruebas de anticuerpos. Los análisis de sangre también pueden ayudar a determinar la presencia de anticuerpos contra el virus.",
+      "treatments": [
+        {
+          "title": "Antivirales",
+          "description": "Los medicamentos antivirales, como el aciclovir, el valaciclovir y el famciclovir, son comúnmente recetados para tratar las infecciones por herpes. Estos medicamentos pueden ayudar a reducir la duración y la gravedad de los síntomas, así como a prevenir recurrencias."
+        },
+        {
+          "title": "Cuidados locales",
+          "description": "Aplicar cremas o geles antivirales en las lesiones puede ayudar a aliviar el malestar y acelerar la curación."
+        },
+        {
+          "title": "Medidas de apoyo",
+          "description": "Mantener una buena higiene, usar ropa suelta para evitar la irritación de las lesiones y tomar analgésicos para aliviar el dolor y la fiebre son medidas de apoyo importantes."
+        }
+      ],
+      "care": [
+        "Lave las manos con frecuencia con agua y jabón.",
+        "Evita el contacto directo.",
+        "Utiliza medicamentos antivirales.",
+        "Puedes usar cremas o geles tópicos recomendados por tu médico para aliviar la picazón, la inflamación y el malestar asociados con los brotes de herpes."
+      ],
+      "faq": [
+        {
+          "ask": "¿El herpes es contagioso?",
+          "answer": "Sí, el herpes es altamente contagioso. Se transmite principalmente a través del contacto directo con una persona infectada, ya sea a través de besos, relaciones sexuales u otras formas de contacto piel a piel."
+        },
+        {
+          "ask": "¿El herpes es curable?",
+          "answer": "Actualmente no hay cura para el herpes. Una vez que una persona está infectada, el virus permanece en el cuerpo de por vida. Sin embargo, hay tratamientos disponibles para ayudar a controlar los síntomas, reducir la frecuencia y la gravedad de los brotes, así como para disminuir la posibilidad de transmisión a otras personas."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para el herpes?",
+          "answer": "No hay ningún remedio casero que haya sido demostrado para curar el herpes. Sin embargo, hay algunas cosas que puede hacer para aliviar los síntomas que pueden ayudar a aliviar los síntomas y a acelerar la recuperación durante los brotes."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Acné rosacea",
+      "description": "La rosácea es una enfermedad crónica de la piel que causa enrojecimiento, inflamación y protuberancias similares al acné en la cara. Afecta principalmente a adultos de mediana edad.",
+      "symptoms": [
+        {
+          "title": "Los síntomas incluyen enrojecimiento facial persistente",
+          "description": ""
+        },
+        {
+          "title": "Pequeñas venas visibles en la pie",
+          "description": ""
+        },
+        {
+          "title": "Protuberancias rojas y elevadas similares a las espinillas",
+          "description": ""
+        }
+      ],
+      "diagnosis": "Se basa en la evaluación clínica de los síntomas por parte de un dermatólogo. No hay pruebas específicas para el diagnóstico de la rosácea, pero se pueden realizar pruebas para descartar otras afecciones similares.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Tales como geles o cremas antiinflamatorias."
+        },
+        {
+          "title": "Antibióticos orales",
+          "description": "Esto para reducir la inflamación."
+        },
+        {
+          "title": "Láser o terapia de luz pulsada intensa (IPL)",
+          "description": "Esto para reducir el enrojecimiento."
+        }
+      ],
+      "care": [
+        "Evitar los desencadenantes conocidos de la rosácea, como el sol, el alcohol, los alimentos picantes y el estrés.",
+        "Mantener una rutina de cuidado de la piel suave y no irritante."
+      ],
+      "faq": []
+    },
+    {
+      "id": 12,
+      "name": "Dermatitis seborreica",
+      "description": "La dermatitis seborreica, también conocida como caspa, es una afección cutánea común que afecta principalmente áreas ricas en glándulas sebáceas, como el cuero cabelludo, la cara y el pecho.",
+      "symptoms": [
+        {
+          "title": "Cuero cabelludo",
+          "description": "Caspa persistente, descamación de la piel, picazón y enrojecimiento."
+        },
+        {
+          "title": "Cara",
+          "description": "Puede afectar áreas alrededor de la nariz, cejas, párpados, orejas y líneas de la mandíbula. Síntomas similares a los del cuero cabelludo, como descamación y enrojecimiento."
+        },
+        {
+          "title": "Cuerpo",
+          "description": "Puede afectar áreas como el pecho, la espalda y la zona de la ingle, presentando enrojecimiento y descamación."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis seborreica suele basarse en la observación clínica de los síntomas. No se necesitan pruebas específicas para confirmar el diagnóstico. En algunos casos, los médicos pueden realizar pruebas para descartar otras afecciones cutáneas.",
+      "treatments": [
+        {
+          "title": "Champús y productos tópicos",
+          "description": "Uso de champús medicados que contienen ingredientes como alquitrán, ketoconazol, sulfuro de selenio o zinc para controlar la descamación y la inflamación del cuero cabelludo. Los productos tópicos como cremas o lociones también pueden ser recetados para otras áreas afectadas de la piel."
+        },
+        {
+          "title": "Cuidado de la piel",
+          "description": "Mantener la piel limpia y bien hidratada. Se deben evitar los productos que puedan irritar la piel."
+        },
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "En casos más graves, los médicos pueden recetar cremas o ungüentos que contengan corticosteroides para reducir la inflamación."
+        },
+        {
+          "title": "Terapias de luz",
+          "description": "En algunos casos, la exposición controlada a la luz ultravioleta puede ser beneficiosa."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "En casos severos, los médicos pueden recetar medicamentos antifúngicos orales, como el ketoconazol."
+        }
+      ],
+      "care": [
+        "Lava tu cabello y piel regularmente con productos suaves y sin fragancias, especialmente aquellos diseñados para pieles sensibles.",
+        "Trata de manejar el estrés mediante técnicas de relajación como la meditación, el yoga o la respiración profunda.",
+        "Evita el uso excesivo de productos para el cabello, como geles, espumas y aerosoles, ya que pueden obstruir los folículos capilares y empeorar los síntomas de la dermatitis seborreica.",
+        "Protege tu piel del sol."
+      ],
+      "faq": []
+    },
+    {
+      "id": 13,
+      "name": "Dermatitis atópica",
+      "description": "La dermatitis atópica, también conocida como eccema atópico, es una enfermedad inflamatoria crónica de la piel. Es común en niños, aunque también puede afectar a personas de cualquier edad.",
+      "symptoms": [
+        {
+          "title": "Picazón intensa",
+          "description": "Es uno de los síntomas más prominentes y puede ser muy molesto."
+        },
+        {
+          "title": "Erupciones cutáneas",
+          "description": "Pueden aparecer en cualquier parte del cuerpo, pero son más comunes en la cara, el cuello, los codos y las rodillas."
+        },
+        {
+          "title": "Piel seca y escamosa",
+          "description": "La piel afectada puede volverse áspera, seca y propensa a la descamación."
+        },
+        {
+          "title": "Enrojecimiento",
+          "description": "Las áreas afectadas de la piel a menudo muestran enrojecimiento e inflamación."
+        },
+        {
+          "title": "Pápulas y ampollas",
+          "description": "Pueden formarse pequeñas protuberancias o ampollas que pueden romperse y supurar."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis atópica se realiza a través de la observación de los síntomas y la historia clínica del paciente. No hay pruebas específicas para confirmar el diagnóstico, pero los médicos pueden realizar pruebas para descartar otras condiciones cutáneas o alergias que puedan tener síntomas similares.",
+      "treatments": [
+        {
+          "title": "Hidratación",
+          "description": "El uso regular de cremas o ungüentos hidratantes es esencial para mantener la piel bien hidratada y prevenir la sequedad."
+        },
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Los medicamentos con corticosteroides se pueden aplicar para reducir la inflamación y aliviar la picazón."
+        },
+        {
+          "title": "Inmunomoduladores tópicos",
+          "description": "Medicamentos como el tacrolimus o el pimecrolimus pueden ser recetados para reducir la inflamación y la picazón, especialmente en áreas sensibles."
+        },
+        {
+          "title": "Antihistamínicos",
+          "description": "Pueden ayudar a aliviar la picazón y mejorar el sueño."
+        },
+        {
+          "title": "Evitar alérgenos y desencadenantes",
+          "description": "Identificar y evitar factores que desencadenan los brotes de dermatitis atópica, cómo ciertos alimentos, alérgenos ambientales o irritantes."
+        },
+        {
+          "title": "Terapias biológicas",
+          "description": "En casos más graves, se pueden considerar terapias biológicas para modular la respuesta inmunológica."
+        }
+      ],
+      "care": [
+        "Mantén la piel bien hidratada usando cremas o lociones emolientes sin fragancias.",
+        "Evita los baños largos o con agua caliente, ya que pueden secar la piel y empeorar los síntomas de la dermatitis atópica.",
+        "Evita el contacto con irritantes conocidos, como jabones perfumados, detergentes fuertes, productos químicos domésticos y tejidos ásperos.",
+        "Usa ropa de algodón y telas suaves que permitan que la piel respire y eviten la irritación.",
+        "Mantén las uñas cortas y limpias para reducir el riesgo de dañar la piel al rascar y considera usar guantes de algodón por la noche para evitar rascarte mientras duermes."
+      ],
+      "faq": []
+    },
+    {
+      "id": 14,
+      "name": "Psoriasis",
+      "description": "La psoriasis es una enfermedad crónica de la piel que se caracteriza por la rápida multiplicación de las células de la piel, lo que resulta en la formación de placas gruesas y endurecidas con escamas plateadas. Esta afección puede afectar cualquier parte del cuerpo, pero es más común en codos, rodillas, cuero cabelludo y parte baja de la espalda.",
+      "symptoms": [
+        {
+          "title": "Placas rojas",
+          "description": "Lesiones elevadas y enrojecidas en la piel."
+        },
+        {
+          "title": "Escamas",
+          "description": "Las lesiones suelen estar cubiertas por escamas plateadas o blancas."
+        },
+        {
+          "title": "Picazón y dolor",
+          "description": "La piel afectada puede ser pruriginosa (con picazón) y, en algunos casos, dolorosa."
+        },
+        {
+          "title": "Uñas afectadas",
+          "description": "En algunos casos, la psoriasis también puede afectar las uñas, causando cambios en su apariencia."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la psoriasis generalmente se realiza mediante la observación clínica de los síntomas y la historia médica del paciente. En algunos casos, se pueden realizar biopsias de la piel para confirmar el diagnóstico.",
+      "treatments": [
+        {
+          "title": "Cremas y ungüentos tópicos",
+          "description": "Incluyendo corticosteroides, análogos de la vitamina D y alquitranes."
+        },
+        {
+          "title": "Fototerapia",
+          "description": "Exposición controlada a la luz ultravioleta bajo supervisión médica."
+        },
+        {
+          "title": "Medicamentos orales o inyectables",
+          "description": "Inmunomoduladores o medicamentos biológicos en casos más severos."
+        },
+        {
+          "title": "Tratamientos tópicos con alquitrán o calcineurina",
+          "description": "Pueden ser recomendados para áreas específicas."
+        }
+      ],
+      "care": [
+        "Usa cremas hidratantes o emolientes para mantener la piel hidratada y evitar que se reseque.",
+        "Evita rascar o frotar la piel afectada, ya que esto puede empeorar los síntomas y desencadenar brotes.",
+        "Limita tu exposición al sol y usa protector solar cuando estés al aire libre para evitar quemaduras solares.",
+        "Trata de identificar y evitar los alimentos que puedan desencadenar los síntomas en tu caso específico."
+      ],
+      "faq": []
+    },
+    {
+      "id": 15,
+      "name": "Eczema",
+      "description": "El eczema, también conocido como dermatitis, es un término general que se utiliza para describir varias afecciones inflamatorias de la piel. Hay diferentes tipos de eczema, y cada uno puede tener síntomas específicos, aunque comparten algunas características comunes.",
+      "symptoms": [
+        {
+          "title": "Piel enrojecida",
+          "description": "La piel afectada por el eczema suele estar enrojecida."
+        },
+        {
+          "title": "Inflamación",
+          "description": "La piel puede estar inflamada, hinchada y sensible al tacto."
+        },
+        {
+          "title": "Lesiones",
+          "description": "Pueden desarrollarse ampollas, costras, descamación y engrosamiento de la piel."
+        }
+      ],
+      "diagnosis": "El diagnóstico del eczema generalmente se realiza mediante la observación clínica de los síntomas y la historia médica del paciente. En algunos casos, pueden realizarse pruebas cutáneas para identificar alérgenos específicos.",
+      "treatments": [
+        {
+          "title": "Cuidado de la piel",
+          "description": "Mantener la piel limpia e hidratada con cremas o ungüentos."
+        },
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Se utilizan para reducir la inflamación y aliviar la picazón."
+        },
+        {
+          "title": "Antihistamínicos",
+          "description": "Pueden ayudar a controlar la picazón y mejorar el sueño."
+        },
+        {
+          "title": "Inmunomoduladores tópicos",
+          "description": "Medicamentos como el tacrolimus o el pimecrolimus pueden ser recetados para reducir la inflamación."
+        },
+        {
+          "title": "Evitar desencadenantes",
+          "description": "Identificar y evitar factores que desencadenan el eczema, como ciertos productos químicos, alérgenos o irritantes."
+        }
+      ],
+      "care": [
+        "Usa cremas hidratantes o emolientes regularmente para mantener la piel bien hidratada.",
+        "Evita el contacto con jabones perfumados, detergentes fuertes, productos químicos domésticos y tejidos ásperos que puedan irritar la piel.",
+        "Los baños largos o con agua caliente pueden resecar la piel y empeorar los síntomas del eczema.",
+        "Usa ropa de algodón y telas suaves que no irriten la piel. Lava la ropa con detergentes suaves y enjuaga bien para eliminar cualquier residuo que pueda irritar la piel."
+      ],
+      "faq": []
+    },
+    {
+      "id": 16,
+      "name": "Urticaria",
+      "description": "La urticaria, también conocida como ronchas o habones, es una reacción cutánea que se caracteriza por la aparición repentina de ronchas elevadas y pruriginosas en la piel. Estas lesiones suelen ser rojas y rodeadas de un área más clara.",
+      "symptoms": [
+        {
+          "title": "Ronchas elevadas",
+          "description": "Lesiones rojas o rosadas que pueden variar en tamaño y forma."
+        },
+        {
+          "title": "Picazón intensa",
+          "description": "La urticaria suele ir acompañada de una sensación intensa de picazón."
+        },
+        {
+          "title": "Cambios en la piel",
+          "description": "Las ronchas pueden cambiar de forma y ubicación rápidamente."
+        },
+        {
+          "title": "Hinchazón",
+          "description": "En algunos casos, puede haber hinchazón en áreas afectadas."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la urticaria generalmente se basa en la observación de los síntomas y la historia médica del paciente. En algunos casos, los médicos pueden realizar pruebas cutáneas o de sangre para identificar posibles desencadenantes o alergias.",
+      "treatments": [
+        {
+          "title": "Antihistamínicos",
+          "description": "Medicamentos que bloquean la acción de la histamina, una sustancia liberada durante las reacciones alérgicas. Los antihistamínicos orales son comúnmente recetados para aliviar la picazón y reducir las ronchas."
+        },
+        {
+          "title": "Corticosteroides",
+          "description": "En casos de urticaria severa o crónica, los corticosteroides orales pueden ser recetados para reducir la inflamación."
+        },
+        {
+          "title": "Evitar desencadenantes",
+          "description": "Identificar y evitar posibles desencadenantes, como alimentos, medicamentos, estrés o insectos."
+        },
+        {
+          "title": "Terapia con luz ultravioleta",
+          "description": "En algunos casos, la exposición controlada a la luz ultravioleta puede ayudar a reducir la urticaria."
+        }
+      ],
+      "care": [
+        "Identifica y evita los desencadenantes que puedan causar urticaria en tu caso específico.",
+        "Opta por ropa suelta y hecha de telas transpirables, como algodón, para evitar la irritación adicional de la piel.",
+        "Lleva un registro de los alimentos que consumes y los síntomas de urticaria que experimentas para ayudar a identificar posibles desencadenantes alimentarios.",
+        "Evita el rascado o frotamiento excesivo de la piel afectada, ya que esto puede empeorar los síntomas y prolongar la duración de los brotes.",
+        "Aplica cremas hidratantes o lociones suavizantes regularmente para mantener la piel bien hidratada y reducir la sequedad que puede desencadenar la urticaria."
+      ],
+      "faq": []
+    },
+    {
+      "id": 17,
+      "name": "Verrugas",
+      "description": "Las verrugas son crecimientos benignos en la piel causados por infecciones del virus del papiloma humano (VPH). Existen varios tipos de verrugas, y pueden aparecer en diversas partes del cuerpo.",
+      "symptoms": [
+        {
+          "title": "Apariencia",
+          "description": "Las verrugas pueden tener diversas apariencias, como protuberancias ásperas, pequeñas masas elevadas o lesiones con aspecto de coliflor."
+        },
+        {
+          "title": "Color",
+          "description": "Pueden ser del color de la piel, blancas, grises, marrones o negras."
+        },
+        {
+          "title": "Textura",
+          "description": "Algunas verrugas tienen una superficie áspera y otras son suaves al tacto."
+        },
+        {
+          "title": "Ubicación",
+          "description": "Pueden aparecer en cualquier parte del cuerpo, pero son más comunes en las manos, los dedos, los pies y las áreas genitales."
+        }
+      ],
+      "diagnosis": "El diagnóstico de las verrugas suele realizarse mediante la observación clínica de las lesiones. En algunos casos, el médico puede realizar una biopsia o pruebas adicionales si hay dudas sobre el diagnóstico.",
+      "treatments": [
+        {
+          "title": "Autocuidado",
+          "description": "Algunas verrugas pueden desaparecer por sí solas con el tiempo. Se puede intentar el uso de productos de venta libre, como ácido salicílico, para tratar verrugas comunes y plantares."
+        },
+        {
+          "title": "Crioterapia",
+          "description": "Se utiliza nitrógeno líquido para congelar la verruga, lo que provoca su caída."
+        },
+        {
+          "title": "Tratamientos tópicos",
+          "description": "Se pueden aplicar medicamentos tópicos, como podofilina, ácido tricloroacético o imiquimod, según el tipo de verruga y su ubicación."
+        },
+        {
+          "title": "Cirugía",
+          "description": "En casos más resistentes, se pueden realizar procedimientos quirúrgicos para extirpar las verrugas."
+        },
+        {
+          "title": "Láser",
+          "description": "En algunos casos, se puede utilizar láser para eliminar verrugas."
+        }
+      ],
+      "care": [
+        "Evita el contacto directo con las verrugas de otras personas o incluso con las tuyas propias para prevenir la propagación.",
+        "Mantén la piel limpia y seca, especialmente en áreas propensas a verrugas, como manos y pies.",
+        "Evita morderte las uñas o las cutículas para prevenir la irritación y el desarrollo de verrugas.",
+        "Evita compartir objetos personales como toallas, calcetines, zapatos o herramientas de manicura, ya que esto puede aumentar el riesgo de transmitir verrugas."
+      ],
+      "faq": []
+    },
+    {
+      "id": 18,
+      "name": "Tiña versicolor",
+      "description": "La tiña versicolor, también conocida como pitiriasis versicolor, es una infección fúngica de la piel causada por el hongo Malassezia. Este hongo normalmente se encuentra en la piel y solo causa problemas en ciertas condiciones.",
+      "symptoms": [
+        {
+          "title": "Manchas en la piel",
+          "description": "Las lesiones suelen ser manchas pequeñas, planas y redondeadas."
+        },
+        {
+          "title": "Cambios en el color de la piel",
+          "description": "Las manchas pueden ser de color blanco, rosado, café claro u oscuro, y pueden fusionarse para formar áreas más grandes."
+        },
+        {
+          "title": "Picazón",
+          "description": "Aunque no siempre está presente, algunas personas pueden experimentar picazón en las áreas afectadas."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la tiña versicolor generalmente se realiza mediante la observación de las lesiones y la historia clínica del paciente. En algunos casos, el médico puede realizar un examen microscópico de las escamas de la piel afectada o realizar cultivos fúngicos para confirmar la presencia del hongo.",
+      "treatments": [
+        {
+          "title": "Antifúngicos tópicos",
+          "description": "Se pueden aplicar cremas, lociones o champús antifúngicos directamente sobre la piel afectada. Estos pueden contener ingredientes como ketoconazol, clotrimazol o terbinafina."
+        },
+        {
+          "title": "Antifúngicos orales",
+          "description": "En casos más extensos o recurrentes, el médico puede recetar medicamentos antifúngicos orales, como fluconazol o itraconazol."
+        },
+        {
+          "title": "Prevención",
+          "description": "Para prevenir recurrencias, se pueden recomendar medidas como el uso regular de champús antifúngicos y la aplicación de cremas antifúngicas en áreas propensas a la infección."
+        },
+        {
+          "title": "Cuidado de la piel",
+          "description": "Mantener una buena higiene y evitar factores que puedan contribuir al crecimiento del hongo, como la humedad excesiva."
+        }
+      ],
+      "care": [
+        "La tiña versicolor se desarrolla en áreas de la piel húmedas y grasosas, así que asegúrate de mantener la piel limpia y seca, especialmente en áreas propensas a sudoración como el pecho, la espalda y la ingle.",
+        "Usa ropa suelta y hecha de telas transpirables como el algodón para permitir que la piel respire y evitar la acumulación de sudor y húmedad.",
+        "Evita compartir objetos personales como toallas, ropa, peines o cepillos, ya que la tiña versicolor puede transmitirse a través del contacto directo con objetos contaminados.",
+        "La exposición al sol puede empeorar las manchas causadas por la tiña versicolor."
+      ],
+      "faq": []
+    },
+    {
+      "id": 19,
+      "name": "Celulitis",
+      "description": "La celulitis es una infección bacteriana de la piel y los tejidos subcutáneos, generalmente causada por bacterias del grupo Streptococcus y Staphylococcus.",
+      "symptoms": [
+        {
+          "title": "Enrojecimiento",
+          "description": "La piel afectada presenta un enrojecimiento que suele ser doloroso."
+        },
+        {
+          "title": "Calor",
+          "description": "La zona afectada puede sentirse caliente al tacto."
+        },
+        {
+          "title": "Hinchazón",
+          "description": "Puede haber hinchazón en la región afectada."
+        },
+        {
+          "title": "Dolor",
+          "description": "La celulitis generalmente se asocia con dolor o sensibilidad en la piel afectada."
+        },
+        {
+          "title": "Fiebre",
+          "description": "En algunos casos, se pueden experimentar síntomas sistémicos como fiebre y malestar general."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la celulitis se realiza mediante la observación de los síntomas y la historia clínica del paciente. No obstante, en algunos casos, puede ser necesario realizar pruebas adicionales, como análisis de sangre o cultivos de la piel, para determinar la causa específica y el tipo de bacteria involucrada.",
+      "treatments": [
+        {
+          "title": "Antibióticos",
+          "description": "Se prescriben antibióticos orales o intravenosos según la gravedad de la infección y la salud general del paciente."
+        },
+        {
+          "title": "Descanso y elevación",
+          "description": "Descansar y elevar la extremidad afectada puede ayudar a reducir la hinchazón."
+        },
+        {
+          "title": "Compresas frías",
+          "description": "Aplicar compresas frías en la zona afectada puede ayudar a aliviar el dolor y reducir la inflamación."
+        },
+        {
+          "title": "Analgésicos",
+          "description": "Se pueden utilizar analgésicos de venta libre para controlar el dolor."
+        },
+        {
+          "title": "Control de factores de riesgo",
+          "description": "En algunos casos, es importante controlar y tratar condiciones médicas subyacentes que puedan predisponer a la celulitis."
+        }
+      ],
+      "care": [
+        "Mantener un peso saludable mediante una dieta equilibrada y ejercicio regular puede ayudar a prevenir la celulitis.",
+        "Evita el exceso de azúcar, grasas saturadas y alimentos procesados, que pueden contribuir a la acumulación de grasa y la inflamación.",
+        "Beber suficiente agua puede ayudar a mantener la piel hidratada y mejorar su apariencia.",
+        "Opta por prendas holgadas y cómodas, especialmente alrededor de áreas propensas a la celulitis, como los muslos y las caderas."
+      ],
+      "faq": []
+    },
+    {
+      "id": 20,
+      "name": "Eccema dishidrótico",
+      "description": "El eczema dishidrótico, también conocido como eccema dishidrótico o dermatitis dishidrótica, es una forma específica de eczema que afecta principalmente las palmas de las manos, las plantas de los pies y los lados de los dedos.",
+      "symptoms": [
+        {
+          "title": "Vesículas y ampollas",
+          "description": "La característica distintiva son las pequeñas vesículas o ampollas llenas de líquido que aparecen en la piel, especialmente en las manos y los pies."
+        },
+        {
+          "title": "Picazón",
+          "description": "La zona afectada suele experimentar picazón intensa."
+        },
+        {
+          "title": "Enrojecimiento",
+          "description": "La piel alrededor de las vesículas puede volverse roja e irritada."
+        },
+        {
+          "title": "Descamación",
+          "description": "Después de la ruptura de las ampollas, la piel afectada puede descamarse y volverse áspera."
+        },
+        {
+          "title": "Afectación recurrente",
+          "description": "El eczema dishidrótico a menudo se presenta de manera recurrente, con episodios de brotes y remisiones."
+        }
+      ],
+      "diagnosis": "El diagnóstico del eczema dishidrótico se realiza principalmente a través de la observación clínica de los síntomas por parte de un profesional de la salud. No obstante, en algunos casos, pueden realizarse pruebas adicionales, como una biopsia de piel, para descartar otras afecciones cutáneas.",
+      "treatments": [
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Los medicamentos corticosteroides tópicos, en forma de cremas o ungüentos, pueden ayudar a reducir la inflamación y la picazón."
+        },
+        {
+          "title": "Baños de agua fría",
+          "description": "Sumergir las manos y los pies en agua fría puede aliviar la picazón y reducir la inflamación."
+        },
+        {
+          "title": "Evitar desencadenantes",
+          "description": "Identificar y evitar factores desencadenantes, como irritantes o alérgenos, puede ayudar a prevenir los brotes."
+        },
+        {
+          "title": "Emolientes y humectantes",
+          "description": "Aplicar regularmente cremas hidratantes y emolientes para mantener la piel bien hidratada y prevenir la sequedad."
+        },
+        {
+          "title": "Evitar el estrés",
+          "description": "El estrés puede desencadenar brotes, por lo que adoptar técnicas de manejo del estrés, como el yoga o la meditación, puede ser beneficioso."
+        }
+      ],
+      "care": [
+        "Identifica y evita los desencadenantes que puedan provocar brotes de eccema dishidrótico.",
+        "Aplica regularmente cremas hidratantes o emolientes en tus manos y pies para mantener la piel bien hidratada y protegida.",
+        "Practica técnicas de manejo del estrés como la meditación, el yoga, la respiración profunda o el ejercicio regular para ayudar a reducir el estrés y mejorar la salud de la piel.",
+        "Opta por agua tibia o fría cuando te laves las manos y evita baños prolongados o duchas calientes."
+      ],
+      "faq": []
+    },
+    {
+      "id": 21,
+      "name": "Pénfigo",
+      "description": "El pénfigo es un grupo de enfermedades autoinmunitarias raras que afectan la piel y las membranas mucosas. Estas condiciones se caracterizan por la formación de ampollas y úlceras en la piel y las mucosas debido a la pérdida de cohesión entre las células de la epidermis. Hay varios tipos de pénfigo, siendo el pénfigo vulgar y el pénfigo foliáceo los más comunes.",
+      "symptoms": [
+        {
+          "title": "Ampollas",
+          "description": "La formación de ampollas en la piel y las mucosas es el signo característico del pénfigo. Estas ampollas pueden ser grandes, frágiles y propensas a romperse fácilmente, dejando úlceras dolorosas."
+        },
+        {
+          "title": "Lesiones mucosas",
+          "description": "Las mucosas afectadas pueden incluir la boca, la garganta, los ojos y los genitales."
+        },
+        {
+          "title": "Dolor y picazón",
+          "description": "Las ampollas y úlceras pueden causar dolor y picazón significativos."
+        }
+      ],
+      "diagnosis": "El diagnóstico del pénfigo generalmente se basa en la evaluación clínica, la observación de las lesiones características y pruebas de laboratorio.",
+      "treatments": [
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Para tratar lesiones cutáneas específicas."
+        },
+        {
+          "title": "Corticosteroides sistémicos",
+          "description": "Como la prednisona, para controlar la inflamación y la respuesta inmunológica general."
+        },
+        {
+          "title": "Inmunosupresores",
+          "description": "Medicamentos como azatioprina, micofenolato de mofetilo o rituximab para reducir la actividad del sistema inmunológico."
+        },
+        {
+          "title": "Terapia de reemplazo de inmunoglobulinas",
+          "description": "En algunos casos graves, puede considerarse la terapia de reemplazo de inmunoglobulinas para modular la respuesta autoinmunitaria."
+        },
+        {
+          "title": "Manejo de heridas",
+          "description": "Tratamiento para prevenir infecciones en las úlceras y promover la cicatrización."
+        }
+      ],
+      "care": [
+        "Mantén la piel y las membranas mucosas limpias y bien cuidadas para ayudar a prevenir infecciones secundarias y reducir el riesgo de brotes.",
+        "Identifica y evita los desencadenantes que puedan provocar brotes de pénfigo.",
+        "Evita el trauma en la piel que pueda provocar la formación de ampollas. Usa ropa suave y evita el rascado o frotamiento excesivo de la piel afectada.",
+        "Una dieta equilibrada y nutritiva puede ayudar a mantener un sistema inmunológico saludable y apoyar la salud de la piel y las membranas mucosas."
+      ],
+      "faq": []
+    },
+    {
+      "id": 22,
+      "name": "Dermatitis artefacta",
+      "description": "La dermatitis artefacta es una afección dermatológica que se caracteriza por lesiones cutáneas autoinfligidas deliberadamente por el propio paciente. Las lesiones son creadas de manera intencional y no son causadas por una condición médica subyacente, sino más bien por el comportamiento del individuo.",
+      "symptoms": [
+        {
+          "title": "Lesiones inusuales",
+          "description": "Las lesiones pueden tener patrones y formas inusuales que no coinciden con enfermedades dermatológicas conocidas."
+        },
+        {
+          "title": "Ubicación irregular",
+          "description": "Las lesiones pueden aparecer en áreas del cuerpo que son difíciles de alcanzar fácilmente por accidente, como la espalda o partes posteriores de las extremidades."
+        },
+        {
+          "title": "Ausencia de correlación médica",
+          "description": "No hay una correlación clara entre las lesiones y las características de las enfermedades dermatológicas conocidas."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis artefacta puede ser desafiante debido a la naturaleza peculiar de las lesiones y la relativa rareza de esta condición.",
+      "treatments": [
+        {
+          "title": "Terapia psicológica",
+          "description": "La terapia cognitivo-conductual u otras formas de terapia pueden ser útiles para abordar las causas subyacentes del comportamiento autoinfligido."
+        },
+        {
+          "title": "Medicamentos",
+          "description": "En algunos casos, los medicamentos psiquiátricos pueden ser recetados para tratar trastornos mentales coexistentes."
+        },
+        {
+          "title": "Apoyo emocional",
+          "description": "Proporcionar apoyo emocional y educación al paciente sobre la relación entre el estado emocional y las lesiones cutáneas."
+        },
+        {
+          "title": "Seguimiento psiquiátrico",
+          "description": "El seguimiento continuo con profesionales de la salud mental es esencial para abordar los problemas subyacentes."
+        }
+      ],
+      "care": [
+        "Fomentar actividades alternativas.",
+        "Educación y apoyo.",
+        "Evaluación psicológica y tratamiento.",
+        "Terapia cognitivo-conductual (TCC)."
+      ],
+      "faq": []
+    },
+    {
+      "id": 23,
+      "name": "Dermatitis de contacto",
+      "description": "La dermatitis de contacto es una reacción inflamatoria de la piel que se produce como respuesta a la exposición a sustancias irritantes o alérgenos. Puede manifestarse como enrojecimiento, hinchazón, picazón y, en algunos casos, formación de ampollas.",
+      "symptoms": [
+        {
+          "title": "Enrojecimiento",
+          "description": "La piel afectada suele volverse roja e inflamada."
+        },
+        {
+          "title": "Hinchazón",
+          "description": "Puede haber hinchazón en la zona expuesta a la sustancia irritante o alérgeno."
+        },
+        {
+          "title": "Picazón",
+          "description": "La picazón es uno de los síntomas más comunes y puede ser intensa."
+        },
+        {
+          "title": "Ampollas o descamación",
+          "description": "En algunos casos, la dermatitis de contacto puede causar la formación de ampollas o la descamación de la piel."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis de contacto generalmente se basa en la evaluación clínica y en la historia del paciente. Algunas veces, se pueden realizar pruebas cutáneas de parche para identificar alérgenos específicos. Estas pruebas implican aplicar pequeñas cantidades de sustancias en parches que se adhieren a la piel durante un período de tiempo y luego evaluar la respuesta de la piel.",
+      "treatments": [
+        {
+          "title": "Evitar desencadenantes",
+          "description": "Identificar y evitar la exposición a sustancias irritantes o alérgenos."
+        },
+        {
+          "title": "Cuidado de la piel",
+          "description": "Mantener la piel limpia e hidratada con cremas emolientes."
+        },
+        {
+          "title": "Compresas frías",
+          "description": "Aplicar compresas frías para aliviar la inflamación y la irritación."
+        },
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Aplicar cremas o ungüentos con corticosteroides para reducir la inflamación y la picazón."
+        },
+        {
+          "title": "Antihistamínicos",
+          "description": "Tomar antihistamínicos orales para controlar la picazón."
+        },
+        {
+          "title": "Medicamentos inmunomoduladores tópicos",
+          "description": "En casos más graves o crónicos, se pueden recetar medicamentos inmunomoduladores tópicos."
+        }
+      ],
+      "care": [
+        "Identifica las sustancias que desencadenan tu dermatitis de contacto y evita el contacto con ellas tanto como sea posible.",
+        "Usa equipo de protección personal adecuado, como guantes, gafas protectoras y ropa de manga larga para proteger tu piel de la exposición.",
+        "La exposición prolongada al agua y al jabón puede eliminar los aceites naturales de la piel y empeorar la dermatitis de contacto.",
+        "Mantén las uñas cortas y limpias para reducir el riesgo de dañar la piel al rascarte."
+      ],
+      "faq": []
+    },
+    {
+      "id": 24,
+      "name": "Dermatitis herpetiforme",
+      "description": "La dermatitis herpetiforme es una enfermedad crónica de la piel asociada con la enfermedad celíaca. Se caracteriza por la presencia de lesiones cutáneas extremadamente pruriginosas que tienden a agruparse en áreas específicas.",
+      "symptoms": [
+        {
+          "title": "Lesiones cutáneas",
+          "description": "Pequeñas ampollas y vesículas rojizas y elevadas que tienden a agruparse, generalmente en codos, rodillas, espalda, nalgas, cuero cabelludo y alrededor del área de las nalgas."
+        },
+        {
+          "title": "Picazón intensa",
+          "description": "La picazón es uno de los síntomas más prominentes y puede ser severa."
+        },
+        {
+          "title": "Lesiones simétricas",
+          "description": "Las lesiones tienden a aparecer simétricamente en ambos lados del cuerpo."
+        },
+        {
+          "title": "Eritema",
+          "description": "Enrojecimiento e inflamación de la piel afectada."
+        },
+        {
+          "title": "Cicatrices",
+          "description": "La raspadura de las lesiones puede llevar a la formación de cicatrices."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis herpetiforme implica una combinación de evaluación clínica y pruebas específicas.",
+      "treatments": [
+        {
+          "title": "Dieta sin gluten",
+          "description": "Eliminar completamente el gluten de la dieta es esencial para controlar la enfermedad celíaca y, por ende, la dermatitis herpetiforme."
+        },
+        {
+          "title": "Dapsona",
+          "description": "Un medicamento antiinflamatorio que a menudo se prescribe para controlar la picazón y las lesiones cutáneas."
+        },
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Se pueden usar para aliviar la inflamación y la picazón en lesiones específicas."
+        }
+      ],
+      "care": [
+        "Evita alimentos que contengan trigo, cebada, centeno y otros productos que contengan gluten.",
+        "Lava la piel regularmente con agua tibia y un jabón suave para mantenerla limpia y prevenir infecciones secundarias.",
+        "El rascado puede empeorar las lesiones y aumentar el riesgo de infección. Mantén las uñas cortas y limpias y evita rascarte las áreas afectadas.",
+        "Evita el consumo de alcohol y deja de fumar si eres fumador."
+      ],
+      "faq": []
+    },
+    {
+      "id": 25,
+      "name": "Dermatitis numular",
+      "description": "La dermatitis numular, también conocida como eczema numular o dermatitis numular discoide, es una forma específica de eczema que se caracteriza por la aparición de parches redondos u ovalados de piel inflamada y con picazón.",
+      "symptoms": [
+        {
+          "title": "Lesiones redondas u ovaladas",
+          "description": "Las áreas afectadas suelen presentar parches bien definidos, con bordes elevados y centro más claro."
+        },
+        {
+          "title": "Enrojecimiento e inflamación",
+          "description": "La piel alrededor de las lesiones puede estar enrojecida e inflamada."
+        },
+        {
+          "title": "Picazón intensa",
+          "description": "La picazón es un síntoma común y puede ser bastante intenso."
+        },
+        {
+          "title": "Descamación",
+          "description": "Las lesiones pueden descamarse, y la piel afectada puede volverse seca."
+        },
+        {
+          "title": "Ampollas o costras",
+          "description": "En algunos casos, puede haber la formación de ampollas o costras en las lesiones."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis numular implica una evaluación clínica por parte de un dermatólogo. En algunos casos, se pueden realizar pruebas cutáneas para identificar posibles alérgenos. Es importante distinguir la dermatitis numular de otras afecciones cutáneas para un tratamiento adecuado.",
+      "treatments": [
+        {
+          "title": "Corticosteroides tópicos",
+          "description": "Se utilizan para reducir la inflamación y aliviar la picazón. En casos más graves, se pueden usar corticosteroides orales."
+        },
+        {
+          "title": "Emolientes y cremas hidratantes",
+          "description": "Ayudan a mantener la piel bien hidratada y a reducir la sequedad."
+        },
+        {
+          "title": "Evitar desencadenantes",
+          "description": "Identificar y evitar posibles desencadenantes, como alérgenos o irritantes, es crucial."
+        },
+        {
+          "title": "Antihistamínicos",
+          "description": "Se pueden recetar antihistamínicos orales para controlar la picazón y mejorar la calidad del sueño."
+        },
+        {
+          "title": "Evitar rascarse",
+          "description": "Es importante evitar las lesiones para prevenir infecciones secundarias."
+        }
+      ],
+      "care": [
+        "Aplica regularmente cremas hidratantes o emolientes suaves para mantener la piel bien hidratada y reducir la sequedad y la descamación.",
+        "Identifica y evita los desencadenantes que puedan provocar brotes de dermatitis numular.",
+        "Mantén las uñas cortas y limpias para reducir el riesgo de dañar la piel al rascarte.",
+        "Opta por agua tibia en lugar de agua caliente al bañarte o ducharte, y evita baños prolongados."
+      ],
+      "faq": []
+    },
+    {
+      "id": 26,
+      "name": "Dermatitis perioral",
+      "description": "La dermatitis perioral es una afección cutánea que se caracteriza por la presencia de erupciones rojas y pequeñas protuberancias alrededor de la boca, la nariz y, en ocasiones, los ojos.",
+      "symptoms": [
+        {
+          "title": "Erupciones faciales",
+          "description": "Aparición de pequeñas protuberancias rojas alrededor de la boca, la nariz y los ojos."
+        },
+        {
+          "title": "Picazón",
+          "description": "Sensación de picazón o ardor en la zona afectada."
+        },
+        {
+          "title": "Piel escamosa",
+          "description": "Puede haber descamación o sequedad en la piel afectada."
+        },
+        {
+          "title": "Pústulas pequeñas",
+          "description": "En algunos casos, pueden formarse pequeñas pústulas llenas de líquido."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la dermatitis perioral se basa en la evaluación clínica realizada por un dermatólogo. Es importante diferenciar esta condición de otras afecciones cutáneas similares, como el acné o la rosácea. En algunos casos, se pueden realizar biopsias cutáneas para confirmar el diagnóstico.",
+      "treatments": [
+        {
+          "title": "Suspensión de esteroides tópicos",
+          "description": "Si el uso de corticosteroides tópicos ha contribuido al problema, se puede recomendar suspender gradualmente su uso bajo supervisión médica."
+        },
+        {
+          "title": "Antibióticos tópicos u orales",
+          "description": "Los antibióticos orales, como la amoxicilina."
+        },
+        {
+          "title": "Evitar irritantes",
+          "description": "Se debe evitar el uso excesivo de productos tópicos y cosméticos en la zona afectada."
+        },
+        {
+          "title": "Cuidado suave de la piel",
+          "description": "Usar limpiadores suaves y evitar el uso excesivo de productos que contengan fragancias o ingredientes irritantes."
+        },
+        {
+          "title": "Manejo de factores desencadenantes hormonales",
+          "description": "En casos relacionados con cambios hormonales, se puede considerar ajustar medicamentos o anticonceptivos bajo supervisión médica."
+        }
+      ],
+      "care": [
+        "Evita el uso de productos cosméticos, cremas faciales, protectores solares y productos para el cuidado de la piel que contengan ingredientes irritantes como fragancias, alcohol, parabenos, sulfatos y aceites minerales.",
+        "Lava la cara con un limpiador suave y sin fragancias y sécala dando palmaditas suaves con una toalla limpia y suave en lugar de frotar la piel.",
+        "Limita el uso de productos para el cuidado de la piel y el maquillaje alrededor de la zona afectada para evitar la obstrucción de los poros y la irritación adicional de la piel.",
+        "Evita tocar, frotar o rascar la zona afectada para evitar la propagación de la irritación y la posibilidad de infección."
+      ],
+      "faq": []
+    },
+    {
+      "id": 27,
+      "name": "Eritema Multiforme",
+      "description": "El eritema multiforme es una afección cutánea aguda y autolimitada que se caracteriza por la aparición de lesiones cutáneas en forma de diana o blanco irisado. Estas lesiones pueden variar en tamaño y forma y a menudo están asociadas con enfermedades infecciosas o reacciones a ciertos medicamentos.",
+      "symptoms": [
+        {
+          "title": "Lesiones en forma de diana",
+          "description": "Las lesiones características son anulares (en forma de anillo) con un centro oscuro y un borde exterior más claro."
+        },
+        {
+          "title": "Enrojecimiento",
+          "description": "La piel alrededor de las lesiones puede estar enrojecida e inflamada."
+        },
+        {
+          "title": "Ampollas o úlceras",
+          "description": "En casos más graves, pueden formarse ampollas o úlceras en las lesiones."
+        },
+        {
+          "title": "Síntomas sistémicos",
+          "description": "Puede ir acompañado de síntomas generales como fiebre, malestar y dolor articular."
+        }
+      ],
+      "diagnosis": "El diagnóstico del eritema multiforme se realiza generalmente a través de la evaluación clínica de las lesiones cutáneas. En algunos casos, pueden realizarse pruebas adicionales, como análisis de sangre o cultivos virales, para identificar la causa subyacente, especialmente si hay sospecha de una infección específica.",
+      "treatments": [
+        {
+          "title": "Manejo sintomático",
+          "description": "El tratamiento se centra en aliviar los síntomas. Se pueden utilizar analgésicos y antipiréticos para controlar el dolor y la fiebre."
+        },
+        {
+          "title": "Hidratación y cuidado de la piel",
+          "description": "Mantener la piel bien hidratada con cremas emolientes puede ayudar a reducir la sequedad y la incomodidad."
+        },
+        {
+          "title": "Corticosteroides tópicos u orales",
+          "description": "En casos más graves o extensos, se pueden utilizar corticosteroides para reducir la inflamación."
+        },
+        {
+          "title": "Tratamiento de la causa subyacente",
+          "description": "Si el eritema multiforme está relacionado con una infección, se puede recetar medicación antiviral."
+        }
+      ],
+      "care": [
+        "Identifica y evita los desencadenantes conocidos que pueden provocar brotes de eritema multiforme.",
+        "Protege la piel de la exposición excesiva al sol usando protector solar de amplio espectro con un factor de protección solar (FPS) de al menos 30 y ropa protectora.",
+        "Lávate las manos regularmente y evita tocarte la cara y los ojos para prevenir la propagación de infecciones virales que pueden desencadenar brotes de eritema multiforme.",
+        "Si has experimentado eritema multiforme inducido por medicamentos en el pasado, evita esos medicamentos en el futuro y asegúrate de informar a tus médicos y farmacéuticos sobre cualquier alergia o reacción adversa a medicamentos que hayas experimentado previamente."
+      ],
+      "faq": []
+    },
+    {
+      "id": 28,
+      "name": "Queratosis actínica",
+      "description": "La queratosis actínica, también conocida como queratosis solar, es una lesión cutánea precancerosa que se desarrolla debido a la exposición crónica a la radiación ultravioleta del sol. Estas lesiones suelen aparecer en áreas de la piel expuestas al sol, como la cara, las orejas, el cuello, los brazos y las manos.",
+      "symptoms": [
+        {
+          "title": "Lesiones ásperas",
+          "description": "Las queratosis actínicas suelen ser pequeñas, ásperas y escamosas al tacto."
+        },
+        {
+          "title": "Coloración",
+          "description": "Pueden ser de color rojo, marrón o de un tono similar al de la piel circundante."
+        },
+        {
+          "title": "Picazón o sensibilidad",
+          "description": "Algunas lesiones pueden producir picazón o ser sensibles al tacto."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la queratosis actínica generalmente se realiza a través de la evaluación clínica por parte de un dermatólogo. En algunos casos, el médico puede realizar una biopsia para confirmar la presencia de células precancerosas.",
+      "treatments": [
+        {
+          "title": "Crioterapia",
+          "description": "Las lesiones se congelan con nitrógeno líquido para eliminarlas."
+        },
+        {
+          "title": "Terapia fotodinámica",
+          "description": "Se aplica una sustancia fotosensible a las lesiones, seguida de exposición a una luz especial que destruye las células afectadas."
+        },
+        {
+          "title": "Crema tópicas",
+          "description": "Se pueden recetar cremas o geles tópicos que contienen agentes como 5-fluorouracilo (5-FU) o imiquimod para aplicar en las lesiones durante un período determinado."
+        }
+      ],
+      "care": [
+        "Identifica y evita los desencadenantes conocidos que pueden provocar brotes de eritema multiforme.",
+        "Protege la piel de la exposición excesiva al sol usando protector solar de amplio espectro con un factor de protección solar (FPS) de al menos 30 y ropa protectora, como sombreros de ala ancha y camisas de manga larga, especialmente durante las horas pico de radiación ultravioleta.",
+        "Fumar tabaco puede aumentar el riesgo de desarrollar queratosis actínica y otros tipos de cáncer de piel.",
+        "Mantén la piel bien hidratada aplicando regularmente lociones o cremas hidratantes para prevenir la sequedad y la irritación de la piel."
+      ],
+      "faq": []
+    },
+    {
+      "id": 29,
+      "name": "Queratosis pilaris",
+      "description": "La queratosis pilaris es una afección cutánea común que se manifiesta como pequeñas protuberancias ásperas en la piel, a menudo en los brazos, muslos, glúteos y, en menor medida, en otras áreas del cuerpo.",
+      "symptoms": [
+        {
+          "title": "Protuberancias ásperas",
+          "description": "Las lesiones típicas son pequeñas protuberancias ásperas que pueden ser de color blanco, rojo o del color de la piel."
+        },
+        {
+          "title": "Piel seca",
+          "description": "A menudo, la piel alrededor de las protuberancias puede estar seca."
+        },
+        {
+          "title": "Picazón",
+          "description": "En algunos casos, la queratosis pilaris puede causar picazón, aunque generalmente no es dolorosa."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la queratosis pilaris suele basarse en la apariencia característica de las lesiones durante una evaluación clínica. En algunos casos, el médico puede realizar una biopsia de piel para confirmar el diagnóstico.",
+      "treatments": [
+        {
+          "title": "Hidratación",
+          "description": "El uso regular de cremas hidratantes ayuda a mantener la piel suave y reducir la sequedad."
+        },
+        {
+          "title": "Exfoliación suave",
+          "description": "El uso de exfoliantes suaves puede ayudar a eliminar las células de piel muerta y mejorar la textura de la piel."
+        },
+        {
+          "title": "Ácidos alfa hidroxi (AHA) o beta hidroxi (BHA)",
+          "description": "Cremas o lociones que contienen AHA (como el ácido láctico) o BHA (como el ácido salicílico) pueden ayudar a exfoliar y suavizar la piel."
+        },
+        {
+          "title": "Ácido retinoico",
+          "description": "El uso de exfoliantes suaves puede ayudar a eliminar las células de piel muerta y mejorar la textura de la piel."
+        },
+        {
+          "title": "Cremas con urea",
+          "description": "Las cremas que contienen urea pueden ayudar a suavizar la piel y mejorar la queratosis pilaris."
+        }
+      ],
+      "care": [
+        "Mantén la piel bien hidratada aplicando regularmente cremas o lociones hidratantes.",
+        "Evita duchas o baños con agua caliente, ya que puede resecar la piel y empeorar los síntomas de la queratosis pilaris.",
+        "Usa un exfoliante suave o un cepillo de cerdas suaves para ayudar a eliminar las células de piel muerta y desatascar los folículos pilosos obstruidos.",
+        "Mantén una hidratación adecuada bebiendo suficiente agua durante el día. Una buena hidratación puede ayudar a mantener la piel sana y mejorar su apariencia."
+      ],
+      "faq": []
+    },
+    {
+      "id": 30,
+      "name": "Liquen plano",
+      "description": "El liquen plano es una afección de la piel, el cabello, las uñas, la boca y los genitales. En la piel, suele aparecer como bultos planos violáceos que causan picazón y que se desarrollan durante varias semanas. En la boca y la mucosa genital, el liquen plano forma manchas blancas reticuladas que a veces tienen llagas dolorosas.",
+      "symptoms": [
+        {
+          "title": "Pápulas",
+          "description": "Las pápulas son pequeñas protuberancias elevadas en la piel. Suelen ser planas, de color rojo o violáceo, y pueden estar rodeadas de un halo de piel clara."
+        },
+        {
+          "title": "Placas",
+          "description": "Las placas son lesiones más grandes que las pápulas. Pueden ser planas o elevadas, y suelen ser de color rojo o violáceo."
+        },
+        {
+          "title": "Escama",
+          "description": "Las escamas son capas de piel muerta que se desprenden. Pueden aparecer en las pápulas y placas."
+        },
+        {
+          "title": "Prurito",
+          "description": "El prurito, o picazón, es un síntoma común del liquen plano. Puede ser leve o intenso, y puede empeorar con el rascado."
+        }
+      ],
+      "diagnosis": "El diagnóstico del liquen plano se basa en la evaluación de los signos y síntomas de la persona. El médico también puede realizar un examen físico para buscar otras lesiones características del liquen plano.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Los medicamentos tópicos, como el corticosteroide y la tacrolimus, pueden ayudar a reducir la inflamación y el prurito."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "Los medicamentos orales, como la acitretina y la ciclosporina, pueden ayudar a controlar la inflamación en casos graves."
+        },
+        {
+          "title": "Fototerapia",
+          "description": "La fototerapia, que es la exposición de la piel a la luz ultravioleta, puede ayudar a reducir la inflamación y el prurito."
+        }
+      ],
+      "care": [
+        "Los factores desencadenantes del liquen plano pueden variar de persona a persona, pero algunos de los más comunes son el estrés, el clima frío y los medicamentos.",
+        "Usar productos para el cuidado de la piel suaves",
+        "Evitar tocarse las lesiones"
+      ],
+      "faq": [
+        {
+          "ask": "¿El liquen plano es contagioso?",
+          "answer": "No, el liquen plano no es contagioso."
+        },
+        {
+          "ask": "¿El liquen plano es curable?",
+          "answer": "No, el liquen plano es una afección crónica que no tiene cura. Sin embargo, el tratamiento puede ayudar a controlar los síntomas de la afección."
+        },
+        {
+          "ask": "¿Hay algún remedio casero para el liquen plano?",
+          "answer": "Hay algunos remedios caseros que pueden ayudar a aliviar los síntomas del liquen plano, como compresas frías, té de manzanilla y remedios naturales para la psoriasis. Sin embargo, estos remedios no son un sustituto del tratamiento médico."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Queratosis seborreica",
+      "description": "La queratosis seborreica, también conocida como verruga seborreica o acrocordón, es una afección cutánea benigna y común que se caracteriza por el desarrollo de lesiones elevadas y no cancerosas en la piel.",
+      "symptoms": [
+        {
+          "title": "Lesiones elevadas",
+          "description": "Las queratosis seborreicas suelen aparecer como protuberancias elevadas en la piel."
+        },
+        {
+          "title": "Color variado",
+          "description": "Pueden tener diversos colores, como marrón, negro, amarillo o del mismo tono de la piel."
+        },
+        {
+          "title": "Textura",
+          "description": "Las lesiones pueden tener una superficie rugosa o verrugosa."
+        },
+        {
+          "title": "Tamaño variable",
+          "description": "Pueden variar en tamaño, desde pequeñas hasta más grandes."
+        },
+        {
+          "title": "Ubicación común",
+          "description": "Suelen aparecer en áreas de la piel con pliegues, como el cuello, las axilas, la ingle o debajo de los senos. También pueden ocurrir en la cara, el cuero cabelludo y el tronco."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la queratosis seborreica suele basarse en la apariencia característica de las lesiones durante una evaluación clínica. En algunos casos, puede ser necesario realizar una biopsia para descartar otras condiciones cutáneas.",
+      "treatments": [
+        {
+          "title": "Extirpación quirúrgica",
+          "description": "Se puede realizar la extirpación de las lesiones mediante cirugía, electrocirugía o crioterapia (congelación)."
+        },
+        {
+          "title": "Cauterización",
+          "description": "El uso de calor para eliminar las lesiones."
+        },
+        {
+          "title": "Láser",
+          "description": "La terapia con láser puede ser una opción para eliminar las queratosis seborreicas."
+        },
+        {
+          "title": "Medicamentos tópicos",
+          "description": "En algunos casos, se pueden recetar cremas o lociones tópicas para reducir el tamaño o el grosor de las lesiones."
+        }
+      ],
+      "care": [
+        "Lávate las manos antes y después de la aplicación para evitar la propagación de la medicación a otras áreas de la piel o a los ojos.",
+        "Evita aplicar medicamentos tópicos en áreas sensibles como los ojos, la boca, la nariz y los genitales, a menos que se indique específicamente para esa área.",
+        "Usa la cantidad prescrita o recomendada del medicamento tópico. No apliques más de lo indicado, ya que esto puede aumentar el riesgo de efectos secundarios.",
+        "Evita el contacto del medicamento tópico con irritantes conocidos, como productos químicos agresivos, detergentes o cosméticos que puedan aumentar la irritación de la piel."
+      ],
+      "faq": []
+    },
+    {
+      "id": 32,
+      "name": "Lunares",
+      "description": "Los lunares son un tipo frecuente de crecimiento en la piel. Generalmente aparecen como pequeños puntos marrones oscuros y los causan los grupos de células que producen la pigmentación (melanocitos). La mayoría de las personas tiene de 10 a 40 lunares que aparecen durante la infancia y la adolescencia, y pueden cambiar de apariencia o desaparecer con el tiempo.",
+      "symptoms": [
+        {
+          "title": "No suelen producir ninguna molestia",
+          "description": "Son manchas de color marrón a negro, que pueden tener diferente tamaño, desde menores que la cabeza de un alfiler hasta del tamaño del grosor de un lápiz (medio centímetro) o, con menos frecuencia, aún mayores. "
+        }
+      ],
+      "diagnosis": "No existe un diagnóstico.",
+      "treatments": [
+        {
+          "title": "Lo solicita el paciente",
+          "description": "Bien por ser antiestético o por rozar en algún lugar que produzca molestias."
+        }
+      ],
+      "care": [
+        "En caso de molestia consulte con su médico más cercano."
+      ],
+      "faq": []
+    },
+    {
+      "id": 33,
+      "name": "Candidiasis cutánea",
+      "description": "La candidiasis cutánea es una infección por hongos en la piel causada por Candida albicans. Esta infección afecta áreas cálidas y húmedas del cuerpo, como las axilas y la ingle, aunque puede aparecer en cualquier parte de la piel. Es una afección común que resulta en enrojecimiento y picazón.",
+      "symptoms": [
+        {
+          "title": "Erupción cutánea roja que crece",
+          "description": "Aparición de una erupción roja en la piel que aumenta de tamaño con el tiempo."
+        },
+        {
+          "title": "Erupción en los pliegues de la piel",
+          "description": "Presencia de erupciones en áreas donde la piel se pliega o en zonas húmedas del cuerpo, como los genitales, los pliegues cutáneos, el tronco, los glúteos y debajo de los senos."
+        },
+        {
+          "title": "Infección de los folículos pilosos ",
+          "description": "Infección de los folículos pilosos que se manifiesta como protuberancias similares a granos en la piel."
+        }
+      ],
+      "diagnosis": "El diagnóstico de la candidiasis cutánea generalmente se realiza mediante la evaluación clínica de los síntomas y la apariencia de la piel por parte de un médico o dermatólogo. En algunos casos, se pueden tomar muestras de piel para realizar pruebas de laboratorio, como cultivos fúngicos, para confirmar la presencia de Candida albicans.",
+      "treatments": [
+        {
+          "title": "La buena higiene y salud general",
+          "description": "Mantener una higiene adecuada, como lavar y secar la piel regularmente, y mantener un estilo de vida saludable, con una dieta equilibrada y ejercicio regular, son aspectos importantes en el tratamiento de la candidiasis cutánea."
+        },
+        {
+          "title": "Mantener la piel seca y expuesta al aire ayuda",
+          "description": "Mantener la piel limpia y seca, así como permitir que la piel afectada por la candidiasis cutánea esté al aire libre para ayudar a reducir la humedad y promover la curación."
+        },
+        {
+          "title": "Los talcos (absorbentes) pueden ayudar a prevenir las infecciones micóticas",
+          "description": "Se sugiere que el uso de talcos absorbentes puede ayudar a absorber el exceso de humedad en la piel y prevenir el crecimiento excesivo de hongos, lo que puede ser beneficioso en la prevención de infecciones micóticas como la candidiasis cutánea."
+        }
+      ],
+      "care": [
+        "Mantener un peso saludable.",
+        "Evita el uso de productos que puedan irritar la piel",
+        "Cambio regular de ropa.",
+        "Consulta médica."
+      ],
+      "faq": []
+    },
+    {
+      "id": 34,
+      "name": "Tiña corporal",
+      "description": "La tiña del cuerpo (tinea corporis) es una erupción cutánea causada por una infección micótica. Por lo general, es un sarpullido circular y que pica, con piel más clara en el medio. La tiña recibe su nombre por su apariencia. La tiña del cuerpo está relacionada con el pie de atleta (tiña pedis), la tiña inguinal (tinea cruris) y la tiña del cuero cabelludo (tinea capitis).",
+      "symptoms": [
+        {
+          "title": "Un área escamosa en forma de anillo",
+          "description": "Una erupción cutánea circular con escamas, comúnmente encontrada en áreas como los glúteos, el tronco, los brazos y las piernas."
+        },
+        {
+          "title": "Picazón",
+          "description": "Sensación molesta en la piel que provoca el deseo de rascarse."
+        },
+        {
+          "title": "Anillos de expansión ligeramente elevados",
+          "description": "Anillos en la piel que se expanden ligeramente y pueden estar elevados."
+        },
+        {
+          "title": "Un parche de piel redondo y plano que pica",
+          "description": "Una área circular de la piel que es plana y que causa picazón."
+        }
+      ],
+      "diagnosis": "Esta infección puede presentarse como un área escamosa en forma de anillo en la piel (conocida comúnmente como tiña), acompañada de picazón. Los dermatofitos tienden a prosperar en áreas cálidas y húmedas del cuerpo, como los glúteos, el tronco, los brazos y las piernas, lo que coincide con la ubicación descrita.",
+      "treatments": [
+        {
+          "title": "Infórmate y brinda información a otras personas",
+          "description": "Sé consciente del riesgo de contagiarte tiña de personas o mascotas infectadas."
+        },
+        {
+          "title": "Mantente limpio",
+          "description": "Lávate las manos con frecuencia. Mantén limpias las áreas compartidas, especialmente en escuelas, centros de cuidado infantil, gimnasios y vestuarios."
+        },
+        {
+          "title": "Mantente fresco y seco",
+          "description": "No uses ropa gruesa durante largos períodos de tiempo en climas cálidos y húmedos. Evita la sudoración excesiva."
+        },
+        {
+          "title": "Evita a los animales infectados",
+          "description": "A menudo, la infección parece una mácula en la piel donde falta pelo."
+        }
+      ],
+      "care": [
+        "Mantén la piel limpia y seca lavándola regularmente con agua y jabón suave.",
+        "Aplica cremas o lociones antifúngicas sobre las áreas afectadas según las indicaciones de tu médico.",
+        "Evita el contacto directo con personas o animales que puedan tener la infección para prevenir su propagación.",
+        "Cortar las uñas cortas y mantenerlas limpias puede ayudar a prevenir la propagación de la infección a las uñas.",
+        "No compartas objetos personales como toallas, ropa, peines o cepillos para evitar la propagación de la infección."
+      ],
+      "faq": []
+    },
+    {
+      "id": 35,
+      "name": "Roseola",
+      "description": "La roséola es una infección común que suele afectar a los niños hasta los 2 años. Es causada por un virus que se transmite de una persona a otra. Puede provocar fiebre alta seguida de sarpullido que no pica ni duele. Aproximadamente un cuarto de las personas con roséola presentan sarpullido.",
+      "symptoms": [
+        {
+          "title": "Irritabilidad",
+          "description": " Estado de estar fácilmente molesto o incómodo, a menudo manifestado por cambios en el comportamiento o el estado de ánimo."
+        },
+        {
+          "title": "Diarrea leve",
+          "description": "Aumento en la frecuencia y la suavidad de las evacuaciones intestinales, pero en una forma que no es grave y puede no causar malestar significativo."
+        },
+        {
+          "title": "Disminución del apetito",
+          "description": "Reducción en el deseo de comer o la cantidad de alimentos consumidos en comparación con lo habitual."
+        },
+        {
+          "title": "Párpados hinchados",
+          "description": "Aumento anormal del tamaño o la hinchazón de los párpados, que puede ser causado por una variedad de condiciones médicas, incluida la roséola en este caso."
+        }
+      ],
+      "diagnosis": "Roséola causada por el virus herpes humano tipo 6 (HHV-6) y, a veces, por el virus herpes humano tipo 7 (HHV-7). Esta enfermedad viral es común en niños pequeños y se caracteriza por fiebre alta seguida de un sarpullido rosado.",
+      "treatments": [
+        {
+          "title": "No hay ninguna vacuna para prevenir la roséola",
+          "description": "Puedes proteger a los demás si mantienes en casa al niño que tiene fiebre hasta que esta haya desaparecido por 24 horas. Después, aunque haya sarpullido de roséola, la enfermedad no es contagiosa."
+        }
+      ],
+      "care": [
+        "Control de la fiebre.",
+        "Hidratación.",
+        "Descanso.",
+        "Buena higiene.",
+        "Mantén al niño en casa y evita el contacto con otros niños hasta que desaparezca la fiebre y el sarpullido."
+      ],
+      "faq": []
+    },
+    {
+      "id": 36,
+      "name": "Petequias y púrpura",
+      "description": "Es la presencia de parches y manchas de color púrpura en la piel y en las membranas mucosas, incluso el revestimiento de la boca. La púrpura ocurre cuando pequeños vasos sanguíneos dejan escapar sangre bajo la piel.",
+      "symptoms": [
+        {
+          "title": "Pequeñas manchas rojas o moradas en la piel",
+          "description": "Son causadas por hemorragias capilares, estas manchas no palidecen cuando se presionan."
+        },
+        {
+          "title": "Grande manchas rojas o moradas en la piel",
+          "description": "Las llagas son áreas abiertas en la piel que están cubiertas de una costra. Pueden ser dolorosas y picar."
+        },
+        {
+          "title": "Piel roja e irritada",
+          "description": "Las manchas de púrpura son más grandes y pueden palidecer cuando se presionan."
+        }
+      ],
+      "diagnosis": "El diagnóstico de petequias y púrpura generalmente se basa en la evaluación clínica realizada por un médico. Pueden realizarse pruebas adicionales, como análisis de sangre o biopsias de piel, para determinar la causa subyacente.",
+      "treatments": [
+        {
+          "title": "Causadas por infecciones",
+          "description": "También conocidos como trastornos de la coagulación suelen desaparecer con el tiempo."
+        },
+        {
+          "title": "Efecto secundario de algún medicamento",
+          "description": "Es probable que las petequias solo desaparecen cuando la persona suspenda el tratamiento, razón por la cual es importante acudir al médico para que evalúe la posibilidad de sustituir dicho fármaco por otro que no cause este efecto secundario."
+        }
+      ],
+      "care": [
+        "Buscar atención médica.",
+        "Tratamiento de la causa subyacente.",
+        "Se puede recomendar el reposo y la elevación de las extremidades afectadas para reducir la hinchazón y la incomodidad."
+      ],
+      "faq": []
+    },
+    {
+      "id": 37,
+      "name": "Xantomas",
+      "description": "Es una afección cutánea en la cual ciertas grasas se acumulan debajo de la superficie de la piel.",
+      "symptoms": [
+        {
+          "title": "Una protuberancia (pápula) de amarilla a naranja con bordes definidos",
+          "description": "Pueden existir varias protuberancias individuales o pueden formar racimos."
+        }
+      ],
+      "diagnosis": "Los xantomas son acumulaciones de lípidos en los tejidos que pueden aparecer en varias partes del cuerpo. Los diagnósticos asociados con los xantomas pueden variar según su ubicación y causas subyacentes.",
+      "treatments": [
+        {
+          "title": "Incremento de los lípidos en la sangre",
+          "description": "Se debe tratar dicha afección puede ayudar a reducir el desarrollo de xantomas."
+        },
+        {
+          "title": "Reducir el desarrollo de xantomas",
+          "description": "Para ello se necesita controlar sus niveles de triglicéridos y de colesterol."
+        }
+      ],
+      "care": [
+        "Si los xantomas están asociados con niveles elevados de colesterol en la sangre u otros factores de riesgo cardiovascular, es importante controlar estos factores.",
+        "Es importante realizar un seguimiento con un médico para monitorear los niveles de lípidos en la sangre y evaluar cualquier progreso en los xantomas.",
+        "Evitar el trauma o la fricción en áreas donde se encuentran los xantomas puede ayudar a prevenir la irritación y el desarrollo de complicaciones adicionales.",
+        "Dependiendo de la ubicación y el tamaño de los xantomas, pueden causar molestias o interferir con la función normal."
+      ],
+      "faq": []
+    },
+    {
+      "id": 38,
+      "name": "Granuloma anular",
+      "description": "El granuloma anular es una afección de la piel que produce erupción con relieve o bultos con forma de anillo. El tipo más común afecta a los adultos jóvenes, por lo general, en las manos y los pies.",
+      "symptoms": [
+        {
+          "title": "Localizado",
+          "description": "Este es el tipo más común de granuloma anular. Los bordes de la erupción tienen una forma circular o semicircular, con un diámetro de hasta 2 pulgadas (5 centímetros)."
+        },
+        {
+          "title": "Generalizado",
+          "description": "Es poco común y normalmente afecta a los adultos. Provoca bultos que forman una erupción en la mayor parte del cuerpo, incluyendo el tronco, los brazos y las piernas. La erupción puede causar molestias o picazón."
+        },
+        {
+          "title": "Debajo de la piel",
+          "description": "Un tipo que suele afectar a los niños pequeños se denomina granuloma anular subcutáneo. Produce bultos firmes y pequeños debajo de la piel en lugar de una erupción. Los bultos se forman en las manos, las espinillas y el cuero cabelludo."
+        }
+      ],
+      "diagnosis": "El granuloma anular es una enfermedad dermatológica crónica que se caracteriza por la aparición de pápulas o nódulos indurados que tienden a formar anillos o placas. El diagnóstico de granuloma anular se basa principalmente en la evaluación clínica de las lesiones cutáneas por parte de un dermatólogo.",
+      "treatments": [
+        {
+          "title": "Cremas o ungüentos con corticoides",
+          "description": "Los productos de venta con receta médica pueden ayudar a curar la piel más rápido. El proveedor de atención médica puede decirte que cubras la crema con vendas o un parche adhesivo, para que el medicamento funcione mejor."
+        },
+        {
+          "title": "Inyecciones de corticoides",
+          "description": "Si la piel no mejora con una crema o un ungüento medicado, el proveedor de atención médica podría sugerir una inyección de corticoides. Es posible que haya que repetir las inyecciones cada 6 u 8 semanas hasta que la afección desaparezca."
+        },
+        {
+          "title": "Congelamiento",
+          "description": "Aplicar nitrógeno líquido en la zona afectada puede ayudar a eliminar los bultos."
+        },
+        {
+          "title": "Fototerapia",
+          "description": "A veces ayuda exponer la piel afectada a ciertos tipos de luz, incluido el láser."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "Cuando la afección está muy extendida, el proveedor de atención médica puede recetar medicamentos por vía oral, como antibióticos o antipalúdicos."
+        }
+      ],
+      "care": [
+        "Es importante realizar un seguimiento regular con un dermatólogo para monitorear la progresión de las lesiones y asegurarse de que no haya cambios significativos.",
+        "Mantén la piel limpia y bien hidratada para ayudar a reducir la irritación y la picazón asociadas con el granuloma anular.",
+        "Para lesiones más grandes o resistentes al tratamiento tópico, se pueden administrar inyecciones de corticosteroides directamente en las lesiones cutáneas para ayudar a reducir la inflamación y promover la resolución de las lesiones."
+      ],
+      "faq": []
+    },
+    {
+      "id": 39,
+      "name": "Acné fulminans",
+      "description": "El acné fulminans es una forma grave y repentina de acné que afecta principalmente a adolescentes y adultos jóvenes. Se caracteriza por el rápido desarrollo de nódulos, abscesos y úlceras dolorosas en la piel, acompañados a menudo de síntomas sistémicos como fiebre y malestar general.",
+      "symptoms": [
+        {
+          "title": "Fiebre",
+          "description": ""
+        },
+        {
+          "title": "Dolor articular y muscular",
+          "description": ""
+        },
+        {
+          "title": "pérdida de apetito",
+          "description": ""
+        }
+      ],
+      "diagnosis": "Se basa en la evaluación clínica de los síntomas por parte de un dermatólogo. Puede ser necesario realizar pruebas para descartar otras afecciones que puedan causar síntomas similares.",
+      "treatments": [
+        {
+          "title": "Medicamentos orales",
+          "description": "Tales como corticosteroides, isotretinoína o antibióticos."
+        }
+      ],
+      "care": [
+        "Seguir el plan de tratamiento recetado por el médico.",
+        "Evitar la manipulación de las lesiones para prevenir la propagación de la infección.",
+        "Mantener una buena higiene de la piel."
+      ],
+      "faq": []
+    },
+    {
+      "id": 40,
+      "name": "Acné vulgar",
+      "description": "El acné vulgar es una afección cutánea común que afecta a las glándulas sebáceas y los folículos pilosos de la piel. Se caracteriza por la presencia de comedones (espinillas), pápulas, pústulas y, en casos graves, nódulos y quistes.",
+      "symptoms": [
+        {
+          "title": "Comedones abiertos",
+          "description": "También conocido como puntos negros."
+        },
+        {
+          "title": "Comedones cerrados",
+          "description": "Tambien conocido como puntos blancos."
+        },
+        {
+          "title": "Pápulas",
+          "description": "Son pequeñas protuberancias rosadas."
+        },
+        {
+          "title": "Pústulas",
+          "description": "Son lesiones llenas de pus."
+        },
+        {
+          "title": "En casos graves",
+          "description": "Se puede llegar a tener nódulos y quistes."
+        }
+      ],
+      "diagnosis": "Se basa en la evaluación clínica de los síntomas por parte de un dermatólogo. No hay pruebas específicas para el diagnóstico del acné vulgar.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "También conocido como peróxido de benzoilo, ácido salicílico y retinoides."
+        },
+        {
+          "title": "Medicamentos orales",
+          "description": "Tales como antibióticos, anticonceptivos orales (en mujeres) y isotretinoína en casos graves."
+        }
+      ],
+      "care": [
+        "Mantener una rutina de cuidado de la piel suave y no irritante.",
+        "Evitar la manipulación excesiva de las lesiones para prevenir la propagación de la infección.",
+        "Evitar los factores desencadenantes conocidos como el estrés.",
+        "Una dieta poco saludable."
+      ],
+      "faq": []
+    },
+    {
+      "id": 41,
+      "name": "Acné comedoniano",
+      "description": "El acné comedoniano es una forma leve de acné que se caracteriza por la presencia predominante de comedones, que pueden ser comedones abiertos (puntos negros) o comedones cerrados (puntos blancos).",
+      "symptoms": [
+        {
+          "title": "Comedones abiertos",
+          "description": "También conocido como puntos negros."
+        },
+        {
+          "title": "Comedones cerrados",
+          "description": "Tambien conocido como puntos blancos."
+        },
+        {
+          "title": "Pápulas",
+          "description": "Son pequeñas protuberancias rosadas."
+        },
+        {
+          "title": "Pústulas",
+          "description": "Son lesiones llenas de pus."
+        },
+        {
+          "title": "En casos graves",
+          "description": "Se puede llegar a tener nódulos y quistes."
+        }
+      ],
+      "diagnosis": "Se basa en la evaluación clínica de los síntomas por parte de un dermatólogo. No hay pruebas específicas para el diagnóstico del acné comedoniano.",
+      "treatments": [
+        {
+          "title": "Medicamentos tópicos",
+          "description": "Los productos de venta con receta médica pueden ayudar a curar la piel más rápido. El proveedor de atención médica puede decirte que cubras la crema con vendas o un parche adhesivo, para que el medicamento funcione mejor."
+        },
+        {
+          "title": "Limpiezas faciales regulares",
+          "description": "Realizar limpiezas en el rostro de manera continua."
+        },
+        {
+          "title": "Exfoliación suave",
+          "description": "Esto para ayudar a destapar los poros."
+        }
+      ],
+      "care": [
+        "Mantener una rutina de cuidado de la piel suave y no irritante.",
+        "Evitar la manipulación excesiva de las lesiones para prevenir la propagación de la infección.",
+        "Evitar los factores desencadenantes conocidos como el estrés.",
+        "Una dieta poco saludable."
+      ],
+      "faq": []
+    }
+  ]
+}
